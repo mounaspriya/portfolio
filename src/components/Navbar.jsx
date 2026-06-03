@@ -56,7 +56,7 @@ export default function Navbar() {
 
         {/* Logo */}
         <h1 className="text-white text-2xl font-bold">
-          Priya<span className="text-cyan-400"> Singh</span>
+          Priya Singh
         </h1>
 
         {/* Desktop Menu */}

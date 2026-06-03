@@ -50,7 +50,7 @@ export default function About() {
 
             <div className="bg-slate-800 p-5 rounded-2xl">
               <h3 className="text-3xl font-bold text-cyan-400">
-                4+
+                3.5
               </h3>
               <p className="text-slate-400">
                 Years Experience
