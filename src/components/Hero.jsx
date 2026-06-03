@@ -2,8 +2,10 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 export default function Hero() {
   return (
-    <section className="min-h-screen bg-slate-950 text-white flex items-center">
-      <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-10 items-center">
+    // <section className="min-h-screen bg-slate-950 text-white flex items-center">
+    <section className="bg-slate-950 text-white pt-24 pb-12 md:min-h-screen md:flex md:items-center">
+      {/* <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-10 items-center"> */}
+      <div className="max-w-7xl mx-auto px-6 w-full grid md:grid-cols-2 gap-10 items-center">
 
         <div>
           <p className="text-cyan-400 text-lg mb-4">
@@ -75,7 +77,8 @@ export default function Hero() {
           </div> */}
         </div>
 
-        <div className="flex justify-center">
+        {/* <div className="flex justify-center"> */}
+        <div className="hidden md:flex justify-center">
           <div className="relative">
 
             <div className="absolute inset-0 bg-cyan-500 blur-[120px] opacity-30 rounded-full" />
