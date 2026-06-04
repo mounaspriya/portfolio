@@ -85,14 +85,14 @@ export default function Experience() {
             </div>
           </div>
 
-          <div className="bg-slate-950 p-8 rounded-3xl border border-slate-800">
-            <h3 className="text-2xl font-bold">
+          <div >
+            {/* <h3 className="text-2xl font-bold">
               Career Pause
-            </h3>
+            </h3> */}
 
-            <p className="text-cyan-400 mt-2">
+            {/* <p className="text-cyan-400 mt-2">
               Dec 2025 – Present
-            </p>
+            </p> */}
 
             {/* <p className="text-slate-400 mt-5 leading-8">
               Took a planned career break to focus on
