@@ -2,7 +2,7 @@ export default function Experience() {
   return (
     <section
       id="experience"
-      className="bg-slate-900 text-white py-24 px-6"
+      className="bg-slate-900 text-white py-2 px-6"
     >
       <div className="max-w-5xl mx-auto">
 
@@ -85,23 +85,6 @@ export default function Experience() {
             </div>
           </div>
 
-          <div >
-            {/* <h3 className="text-2xl font-bold">
-              Career Pause
-            </h3> */}
-
-            {/* <p className="text-cyan-400 mt-2">
-              Dec 2025 – Present
-            </p> */}
-
-            {/* <p className="text-slate-400 mt-5 leading-8">
-              Took a planned career break to focus on
-              motherhood and family responsibilities.
-              Continued learning modern frontend technologies
-              and currently seeking a full-time Frontend
-              Developer opportunity.
-            </p> */}
-          </div>
 
         </div>
 
