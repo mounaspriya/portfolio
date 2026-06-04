@@ -57,7 +57,7 @@ export default function Experience() {
             </h3>
 
             <p className="text-cyan-400 mt-2">
-              Zappr Digital Solution • Jan 2024 – Nov 2025
+              Zappr Digital Solution • Jan 2024 – Present
             </p>
 
             <p className="text-slate-400 mt-5 leading-8">
@@ -94,13 +94,13 @@ export default function Experience() {
               Dec 2025 – Present
             </p>
 
-            <p className="text-slate-400 mt-5 leading-8">
+            {/* <p className="text-slate-400 mt-5 leading-8">
               Took a planned career break to focus on
               motherhood and family responsibilities.
               Continued learning modern frontend technologies
               and currently seeking a full-time Frontend
               Developer opportunity.
-            </p>
+            </p> */}
           </div>
 
         </div>
